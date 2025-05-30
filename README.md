@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website. A digital space to showcase my skills, projects, education, and certifications in a clean and elegant manner. Built with pure HTML and CSS, this site reflects both creativity and structure.
 
-**Demo Link:** [My POrtfolio](https://parvaneh-yaghoubi.github.io/Portfolio/)
+**Demo Link:** [My Portfolio](https://parvaneh-yaghoubi.github.io/Portfolio/)
 
 ## Theme & Inspiration
 
